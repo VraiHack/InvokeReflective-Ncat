@@ -1,7 +1,7 @@
 # InvokeReflective-Ncat
 During my training with eLearsecurity at the Advanced level, there was a littele bit complicated lab (LAB1) with the objective to Custom an Undetectable Macro (InvokeReflectiveNcat is the final objective)
 
-**So this is not a copy past for the LAB and not even the final code!**
+**So this is not a copy past for the LAB and not even the final code!** ;)
 i just decided it to make it easier for you (elearnsecurity students/interested peoples in cyber) by:
 ```diff
 - desiging the attack in a schematic way
