@@ -4,7 +4,7 @@ During my training with eLearsecurity at the Advanced level, there was a littele
 **So this is not a copy past for the LAB and not even the final code!**
 i just decided it to make it easier for you (elearnsecurity students/interested peoples in cyber) by:
 ```diff
-- desiging the attack in a schematic way
+- desiging the attack dev in a schematic way
 + and for more clarity for the steps
 ```
 So, this is a simple designe to reflectively inject the NCAT in the targe memory and compromise the target via a bind shell
