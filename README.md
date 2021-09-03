@@ -4,7 +4,12 @@ During my training with eLearsecurity at the Advanced level, there was a littel 
 **So this is not a copy past for the LAB!**
 i decided it to make it easier for you (elearnsecurity students/...) by <ins>**desiging the attack in a schematic way**</ins> for more clarity for the steps.
 
-<style>H1{color:Blue;}</style>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
 
 So, this is a simple designe to reflectively inject the NCAT.exe in the targe memory
 - We can evade A/V by removing all comments and renaming/obfuscating functions from Invoke-ReflectivePEInjection code.
