@@ -12,3 +12,4 @@ So, this is a simple designe to reflectively inject the NCAT in the targe memory
 - And evading IDS by doing a XOR obfuscation/de-obfuscation for the attack’s stage payload.
 
 ![image](https://user-images.githubusercontent.com/26716241/132077347-e4ca30d3-2db7-489d-881a-a1d010faf1c9.png)
+![image](https://user-images.githubusercontent.com/26716241/138367740-e1377682-3323-4a6f-bfb5-be69d60560d6.png)
