@@ -10,5 +10,3 @@ i just decided it to make it easier for you (elearnsecurity students/interested 
 So, this is a simple designe to reflectively inject the NCAT in the targe memory and compromise the target via a bind shell
 - We can evade A/V by removing all comments and renaming/obfuscating functions from Invoke-ReflectivePEInjection code.
 - And evading IDS by doing a XOR obfuscation/de-obfuscation for the attack’s stage payload.
-
-![image](https://user-images.githubusercontent.com/26716241/138367740-e1377682-3323-4a6f-bfb5-be69d60560d6.png)
