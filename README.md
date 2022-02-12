@@ -12,4 +12,4 @@ So, this is a simple designe to reflectively inject the NCAT in the targe memory
 - We can evade A/V by removing all comments and renaming/obfuscating functions from Invoke-ReflectivePEInjection code.
 - And evading IDS by doing a XOR obfuscation/de-obfuscation for the attack’s stage payload.
 
-**PLEASE NOTE THAT THIS METHOD HAS BEEN PATCHED SO IT WILL NEVER WORK BUT STILL USEFUL FOR LEARNING PURPOSE**
+**PLEASE NOTE THAT THIS METHOD HAS BEEN PATCHED SO IT WILL NEVER bypass AMSI BUT STILL USEFUL FOR LEARNING PURPOSE**
